@@ -3,6 +3,7 @@ My journey with Data Analytics continues with an education on Python, a skill th
 
 # Background
 The results of my SQL project highlighted a wide range of technical skills that would serve any aspiring Data Analyst, both in their current role and if they wished to pursue new opportunities in the data industry. Alongside SQL, Python was counted in 90% of those roles which had the highest-paying salaries. Python was also shown to be in high demand for openings that required coding expertise (alongside SQL and R); the data job market values candidates that can claim proficiency with Python as part of their toolkit, which makes sense as this language can navigate data sets and produce visualizations all in one place.
+
 The merit in becoming at least familiar with Python is clear: companies want individuals who can utilize this powerful language to gleam insights from data and share those insights with others, and this pursuit is becoming more commonplace in the data job market. With that understood, I began my education on Python using Luke Barousse's [Python for Data Analystics course](https://www.lukebarousse.com/python). Both the training and practice provided here are incredibly efficient, as Luke offers a valid data set he cultivated with Python to explore the data job market.
 
 ### The project works through the following questions, drawn from the data provided:
