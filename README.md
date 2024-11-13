@@ -12,7 +12,7 @@ With that understood, I began my education on Python using Luke Barousse's [Pyth
 
 1. What are the most demanded skills for the top 3 most popular data roles?
 2. What are the trends of in-demand skills for Data Analysts?
-3. How well do certain companies and skills pay for Data Analysts?
+3. What is the compensation for Data Analysts' skills in the current job market?
 4. What is the most optimal skill to learn for Data Analysts? (High Demand, High Paying)
 
 # Tools I Used
