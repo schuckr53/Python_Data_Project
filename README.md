@@ -6,7 +6,7 @@ The results of my SQL project highlighted a wide range of technical skills that 
 
 The merit in becoming at least familiar with Python is clear: companies want individuals who can utilize this powerful language to gleam insights from data and share those insights with others, and this pursuit is becoming more commonplace in the data job market. 
 
-With that understood, I began my education on Python using Luke Barousse's [Python for Data Analystics course](https://www.lukebarousse.com/python). Both the training and practice provided here are incredibly efficient, as Luke offers a valid data set he cultivated with Python to explore the data job market.
+With that understood, I began my education on Python using Luke Barousse's [Python for Data Analytics course](https://www.lukebarousse.com/python). Both the training and practice provided here are incredibly efficient, as Luke offers a valid data set he cultivated with Python to explore the data job market.
 
 ### The project works through the following questions, drawn from the data provided:
 
@@ -20,7 +20,7 @@ I learned to use the following tools to analyze and manipulate the data for visu
 
 - **Python**: the backbone of my project - this is the coding language I became familiar with as a result of working through Luke's course. The libraries I used were geared towards data analytics and visualization, honing in on valuable insights gleamed from the dataset and producing different perspectives through complimentary charts.
 - **Python Libraries**: Pandas, Matplotlib, and Seaborn were the libraries that I used in manipulating and visualizing the data available via Luke's course. 
-- **VS Code**: the workplace for writing my Python scripts and troubleshooting erros in order to refine my analysis of the available data Luke provided. I was able to utilize virtual environments on a local machine to contain libraries and modules.
+- **VS Code**: the workplace for writing my Python scripts and troubleshooting errors in order to refine my analysis of the available data Luke provided. I was able to utilize virtual environments on a local machine to contain libraries and modules.
 - **Jupyter Notebooks**: the environment used between Google Colab and VS code I composed and troubleshot my Python code - I became familiar with both local and cloud notebook usage as well as their respective benefits and drawbacks.
 - **Git & GitHub**: version control tools that allowed for sharing my work and analysis, providing the ability for further collaboration with friends and the "data nerd" community at large.
 
@@ -36,7 +36,7 @@ I focused on the skills most called for in "Data Analysts", "Data Engineers", an
 
 -A more interesting take-away is the gap to be found between each skill in their respective jobs. Analyst openings have a noticeable drop-off between their #1 requested skill, SQL, and its runner-up, Excel. Both SQL and Python are comparable in their request counts in the Data Engineer field, but its #3 skill, AWS, comes in after a ~35% decline in demand. Data Scientists have a severe drop between the #1 and #2 skills Python and SQL, respectively, indicating a need for specialization in Python before reliance on a wider toolkit.
 
-As the initial plot shows, each role may have a greater need to use specialized skills on their own or the ability to use just a couple in a complimentary way. The counts of each role and their underlying skills can therefore be used to estimate the probability of seeing these skill in the US data job market:
+As the initial plot shows, each role may have a greater need to use specialized skills on their own or the ability to use just a couple in a complimentary way. The counts of each role and their underlying skills can therefore be used to estimate the probability of seeing these skills in the US data job market:
 
 ![Probability of Requested Skills in US Job Postings](https://github.com/user-attachments/assets/bbf59fa3-80b8-49b0-99cb-1091686111f5)
 
@@ -61,13 +61,13 @@ Outline the salary ranges for titled data jobs, then narrow in the top 10 highes
 
 - This box chart displays the distribution of posted wages for each of the types of data jobs I've been showcasing so far, providing a look at the median and outliers to consider. Another layer to this visualization is the inclusion of senior-level roles with their respective counterparts - a side-by-side comparison can be made to understand compensation differences at different levels of the same role. The results are interesting: senior roles are shown to have higher median salaries than their standard version, but both the Scientist and Engineer (and their senior levels) outmatch the senior data analyst role's median salary. This data indicates that it, perhaps, pays better out of the gate to enter into data scientist and data engineer roles rather than a data analyst and even senior analyst position.
 
-- A secondary note, though, is that all of these positions have median salaries at least approaching if not exceeding $100,000 annual salaries, which confirms the data job market is a very attractive career path when recalling the 2023 median household salary was $59,540 (ref. [Bureau of Labor Statistics](https://www.bls.gov/opub/ted/2024/median-weekly-earnings-of-full-time-workers-were-1145-in-the-fourth-quarter-of-2023.htm)).
+- A secondary note, though, is that all of these positions have median salaries at least approaching if not exceeding $100,000 annual salaries, which confirms data careers are very attractive when recalling the 2023 median household salary was $59,540 (ref. [Bureau of Labor Statistics](https://www.bls.gov/opub/ted/2024/median-weekly-earnings-of-full-time-workers-were-1145-in-the-fourth-quarter-of-2023.htm)).
 
 With this in mind, I move into the breakdown of skill associations with median salaries for data analysts:
 
 ![Skill Demand vs. Compensation for Data Analysts](https://github.com/user-attachments/assets/9d484229-bcaa-4370-9891-83971e915096)
 
-- The contrast in these two plots is clear when understanding how those top 10 highest-paid skills are generally more specialized than the top 10 in-demand skills for data analysts. Those highest paid skills are shown to be approaching the $200,000 median salary mark - analysts can anticipate higher levels of skill in niche tools not commonly found in the market result in a greater level of pay. These top-paid skills are spread between cloud-based ifnrastructure, coding subset languages / libraries, and machine learning / AI tools. 
+- The contrast in these two plots is clear when understanding how those top 10 highest-paid skills are generally more specialized than the top 10 in-demand skills for data analysts. Those highest paid skills are shown to be approaching the $200,000 median salary mark - analysts can anticipate higher levels of skill in niche tools not commonly found in the market result in a greater level of pay. These top-paid skills are spread between cloud-based infrastructure, coding subset languages / libraries, and machine learning / AI tools. 
 
 - The top 10 in-demand skills for data analysts are associated with a tighter range for median salaries, highlighting the merit in a multi-discipline toolkit as a candidate. Coding languages like Python, R, and SQL are joined by more common office software like Power BI, PowerPoint, Excel, and Microsoft Word. Python tops this list of demand while aligning with a median annual salary close to $100,000, suggesting data analysts would be well-served in becoming proficient with this tool eventually.
 
@@ -77,11 +77,23 @@ Identify likelihood of skills to be included in US job postings, then reference 
 ![Optimal Skills for Data Analysts](https://github.com/user-attachments/assets/b4f3cf88-0fd0-40ce-bc2a-95a334075c6c)
 
 - High-paying and high-demand skills can be identified by the plot's values, showing Python and SQL far along the bars of median salary and prevalence in Analyst roles. SQL stands out by far as the highest desired skill that is tied to a ~$91,000 salary while Python has a ~30% prevalence in the Analyst job market, but is the highest-paying skill of them all with ties to a ~$97,000 median salary.
-- The technology grouping shows that programming (Python, SQL, R, Go, SaS) and analyst tools (Tableau, Power BI, Powerpoint, Excel, Word) should be considered strongly when setting out to apply for data analyst roles, with an emphasis on the individual skills of Python, Tableau, SQL, and Excel. High pay and high demand reveal what employers want when reviewing applicants' resumes and skillsets.
+- The technology grouping shows that programming (Python, SQL, R, Go, SaS) and analyst tools (Tableau, Power BI, PowerPoint, Excel, Word) should be considered strongly when setting out to apply for data analyst roles, with an emphasis on the individual skills of Python, Tableau, SQL, and Excel. High pay and high demand reveal what employers want when reviewing applicants' resumes and skillsets.
+
+# What I Learned
+I finish this course and project having gained a familiarity in coding with Python, both in manipulating data sets and creating resulting visualizations. The two halves of this proficiency will no doubt be invaluable in my pursuit of data analyst openings having also achieved the following:
+- **Understanding of Python** - this coding language adds complexity to my toolkit alongside SQL, allowing me to perform more comprehensive analyses. I can now comfortably write Python scripts that deal with manipulating data, refining my queries, and creating visualizations that showcase the insights I can share with others.
+- **Coding Library Reference** - using Pandas, Matplotlib, and Seaborn as supplemental tools for this course introduced me to the different instruments present within coding languages, starting with Python. Employing each library for my project required me to refer to each one's documentation and I now understand each one to use in the future.
+- **Continued Analysis of Data Jobs** - the opportunity to build off of my SQL project provides me a more comprehensive sense of the job market for data analysts and their related roles. The insights I gained through Luke's data set has outlined where else I can go while on this journey to improve my technical skill set and keep an awareness of what employers are looking for in candidates.
 
 # Conclusions
-## What I Learned
 
 ## Data Insights
+1. **Coding is Key**: SQL remains the top skill to cultivate when looking to secure data analysts and associated positions, but it's not the only programming language deserving of attention. Python and R also make an appearance in the counts of top skills included with job postings between data analysts, data engineers, and data scientists, revealing that candidates should understand at least the basics of more than one coding language. Both SQL and Python are clear favorites for the data job market across the board, so proficiency with these skills would be prudent.
+2. **Monitor the Trends**: Staying grounded in what abilities the job market calls for is essential; candidates need to regularly check in on what skills potential employers value, seeing as they can change over the course of time. Like we saw with Tableau being overtaken by Python at the end of 2023, the same openings we see for data analyst may experience shifts in necessary abilities should the roles themselves be adjusted for particular tasks.
+3. **Compensation is Substantial**: Data jobs, ranging from Analysts, Engineers, and Scientists (alongside their senior counterparts), typically enjoy a substantial base salary when we compare to the US's median household salary ($59,540, ref. [Bureau of Labor Statistics](https://www.bls.gov/opub/ted/2024/median-weekly-earnings-of-full-time-workers-were-1145-in-the-fourth-quarter-of-2023.htm)). Even standard and senior data analysts, who reside at the bottom of the job index when ranked against the other referenced positions, see strong potential for high earnings. The one wrinkle, though, is understanding that a senior-level role doesn't necessarily guarantee higher compensation than a lower-level role - we see that senior data analysts reside below Engineer and Scientists postings at the standard and senior levels by median yearly salaries.
+4. **Specialized vs. Optimal Skills**: Niche specialties including cloud-based software and machine learning / AI are certainly attractive when considering their associated compensation - the top 3 highest paying data analyst salaries included some of these skills and easily outpaced $175,000/year. When measured against the prevalence of certain skills in the job market, however, practicality calls for data analysts to prioritize programming languages like SQL and Python. SQL can be found in almost 60% of the data analyst roles out there while Python is found in those openings with the highest median salaries at ~$98,000/year. Entry-level data analyst candidates would be best served in pursuing these 2 skills before turning attention to those niche abilities during their job search.
 
 ## My Take-away
+Luke's Python for Data Analytics course and the associated project have given me another palpable skill to add to my professional tool kit. Python and its ability to analyze data relevant to my own career present an exciting opportunity to dive deeper into the world of data science, all while building a portfolio that showcases the work and results of my efforts. The experience has been incredibly rewarding as I present my findings and continue to develop my technical skill set.
+
+
