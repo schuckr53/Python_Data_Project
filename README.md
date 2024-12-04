@@ -76,7 +76,7 @@ Identify likelihood of skills to be included in US job postings, then reference 
 
 ![Optimal Skills for Data Analysts](https://github.com/user-attachments/assets/b4f3cf88-0fd0-40ce-bc2a-95a334075c6c)
 
-- High-paying and high-demand skills can be identified by the plot's values, showing Python and SQL far along the bars of median salary and prevalence in Analyst roles. SQL stands out by far as the highest desired skill that is tied to a ~$91,000 salary while Python has a ~30% prevalence in the Analyst job market, but is the highest-paying skill of them all with ties to a ~$97,000 median salary.
+- High-paying and high-demand skills can be identified by the plot's values, showing Python and SQL far along the bars of median salary and prevalence in Analyst roles. SQL stands out by far as the highest desired skill that is tied to a ~$91,000 salary while Python has a ~34% prevalence in the Analyst job market, but is the highest-paying skill of them all with ties to a ~$97,000 median salary.
 - The technology grouping shows that programming (Python, SQL, R, Go, SaS) and analyst tools (Tableau, Power BI, PowerPoint, Excel, Word) should be considered strongly when setting out to apply for data analyst roles, with an emphasis on the individual skills of Python, Tableau, SQL, and Excel. High pay and high demand reveal what employers want when reviewing applicants' resumes and skillsets.
 
 # Data Insights
